@@ -1,4 +1,23 @@
-footer{
-    background-color: aqua;
-    align-items: center;
+body {
+  /* margin: 0 0 0 0; */
+  background-color: coral;
+}
+
+footer {
+  background-color: aqua;
+  padding: 10 10 10 10;
+}
+footer p {
+  margin: 0 0 0 0;
+}
+
+header nav ul {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: aqua;
+}
+header nav li {
+  float: left;
+  list-style-type: none;
 }
